@@ -5,33 +5,29 @@
  * @param {number} n
  * @return {void} Do not return anything, modify nums1 in-place instead.
  */
-
- /**
- Edge case: 
- - Empty array
- - Duplicate item 
- - Both input array is equal
-  */
 var merge = function(nums1, m, nums2, n) {
-    // let m = nums1.length;
-    // let n = nums2.length;
-    let last = m + n -1;
-
+    let last = m + n - 1;
+    
     while ((m > 0) && (n > 0)){
-        if (nums1[m -1] > nums2[n-1]){
-            nums1[last] = nums1[m-1];
-            m-=1; //phai tru m vi cai m hien tai da duoc move vao last index -> decrease m de tim so tiep theo
-        }
-
-        else{
-           nums1[last] = nums2[n-1] ;
-            n-=1;
-        }
+        
+            if (nums1[m-1] < nums2[n-1]){
+                nums1[last] = nums2[n-1]; 
+                n-=1;             
+            }
+            else{
+                nums1[last] = nums1[m-1];
+                m-=1;
+            }
+        
         last -=1;
     }
-    while (n>0){
+
+    while (n > 0){
+       
         nums1[last] = nums2[n-1];
         n-=1;
-        last -=1;
+        last-=1;
     }
+    
+    return nums1;
 };
