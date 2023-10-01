@@ -17,11 +17,17 @@ var isAnagram = function(s, t) {
             return false;
         }
         
+        else{
             charCount.set(char, charCount.get(char) - 1);
+        }
         
-        
-         if (charCount.get(char) === 0) charCount.delete(char);
+        if (charCount.get(char) === 0) {
+            charCount.delete(char);
+        }
     }
 
     return true;
+    
 };
+
+console.log(isAnagram( "aacc", "ccac"));
