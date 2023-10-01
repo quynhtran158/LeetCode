@@ -15,19 +15,16 @@ var isAnagram = function(s, t) {
     for (const char of t) {
         if (!charCount.has(char)) {
             return false;
-        }
-        
-        else{
+        } else {
             charCount.set(char, charCount.get(char) - 1);
         }
-        
-        if (charCount.get(char) === 0) {
-            charCount.delete(char);
+    }
+
+    for (const count of charCount.values()) {
+        if (count !== 0) {
+            return false;
         }
     }
 
     return true;
-    
 };
-
-console.log(isAnagram( "aacc", "ccac"));
