@@ -2,18 +2,19 @@
  * @param {number[]} nums
  * @return {number}
  */
-var maxSubArray = function(nums) {  
-    let max_sum = nums[0];
-    let curr_sum= nums[0];
+var maxSubArray = function(nums) {
+    let curSub = 0;
+    let maxSub = nums[0];
 
-    for (i = 1; i < nums.length; i++) {
-        curr_sum = Math.max(curr_sum + nums[i], nums[i]);
-        max_sum = Math.max(curr_sum, max_sum);
+    for ( let i = 0; i < nums.length; i++){
+        if (curSub < 0){
+            curSub = 0;
+        }
+        
+            curSub += nums[i];
+            maxSub = Math.max(maxSub, curSub);
+            
+        
     }
-
-    return max_sum;
-
+    return maxSub;
 };
-
-
-
