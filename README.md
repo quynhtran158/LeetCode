@@ -6,6 +6,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/quynhtran158/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/quynhtran158/LeetCode/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/quynhtran158/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 # Prefix Sum
 |  |
 | ------- |
@@ -19,3 +20,7 @@
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/quynhtran158/LeetCode/tree/master/0443-string-compression) |
+# Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/quynhtran158/LeetCode/tree/master/0643-maximum-average-subarray-i) |
