@@ -17,11 +17,13 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/quynhtran158/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/quynhtran158/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/quynhtran158/LeetCode/tree/master/0443-string-compression) |
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/quynhtran158/LeetCode/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/quynhtran158/LeetCode/tree/master/0443-string-compression) |
 # Sliding Window
 |  |
