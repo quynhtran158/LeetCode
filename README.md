@@ -45,6 +45,7 @@
 | [0015-3sum](https://github.com/quynhtran158/LeetCode/tree/master/0015-3sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quynhtran158/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/quynhtran158/LeetCode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 ## Linked List
 |  |
 | ------- |
