@@ -1,34 +1,20 @@
 class Solution:
-    """
-    first approach 
-    i
-    j 
-    
-    
-    """
-
-    # def containsDuplicate(self, nums: List[int]) -> bool:
-        # i, j = 0, 0
-        # N = len(nums)
-        # for i in range(N):
-        #     count = 0
-        #     if i == j and j < N:
-        #         j += 1
-        #     for j in range(N):
-        #         if nums[j] == nums[i]:
-        #             count += 1
-        #     if count >= 2:
-        #         return True
-        # return False
-
     def containsDuplicate(self, nums: List[int]) -> bool:
-        seen = set()
-        N = len(nums)
+        #use hashmap, key as the number, value is their frequency
+        map = {}
+        for num in nums:
+            if num in map:
+                return True
+            else:
+                map[num] = 1
+        return False
 
-        for i in range(N):
+        #use set(), if in set return true -> space O(n)
+        seen = set()
+        nums.sort() #this will set time complexity into O(nlogn) but can save time complexity
+        for i in range(len(nums)):
             if nums[i] in seen:
-                return True 
+                return True
             else:
                 seen.add(nums[i])
         return False
-        
