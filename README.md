@@ -46,17 +46,20 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quynhtran158/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
+| [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/quynhtran158/LeetCode/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/quynhtran158/LeetCode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
+| [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -75,4 +78,8 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 <!---LeetCode Topics End-->
