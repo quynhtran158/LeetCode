@@ -1,11 +1,7 @@
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        seen = set(nums1)
-        result = set()
-        for num in nums2:
-            if num in seen:
-                result.add(num)
-        return list(result)
-
-                
-                
+        seen = set(nums1)  # Convert nums1 to a set for fast lookups
+        for n in list(seen):  # Iterate over a copy of the set to avoid modification during iteration
+            if n not in nums2:
+                seen.remove(n)
+        return list(seen)  # Convert the set to a list before returning
