@@ -5,3 +5,7 @@ class Solution:
             if n not in nums2:
                 seen.remove(n)
         return list(seen)  # Convert the set to a list before returning
+
+'''
+Issue: When you iterate over seen and remove elements from it at the same time, Python raises a RuntimeError because the size of seen changes during iteration. This can lead to unpredictable behavior and is explicitly disallowed.
+'''
