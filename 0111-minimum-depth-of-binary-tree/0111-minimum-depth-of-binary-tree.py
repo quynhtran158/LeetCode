@@ -7,7 +7,7 @@
 class Solution:
     def minDepth(self, root: Optional[TreeNode]) -> int:
         level = 1
-        minLevel = float('inf')
+        # minLevel = float('inf') ->
         d = deque([root])
         if not root:
             return 0
@@ -21,5 +21,5 @@ class Solution:
                 if node.right:
                     d.append(node.right)
             level += 1
-            minLevel = min(level, minLevel)
+            # minLevel = min(level, minLevel) no need to have minLvl bc we return the level immediately when we reach the leaf node
         return minLevel
