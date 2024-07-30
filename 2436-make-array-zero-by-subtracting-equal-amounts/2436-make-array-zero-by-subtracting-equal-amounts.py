@@ -1,15 +1,12 @@
 class Solution:
     '''
-    edge case: 
-    all 0
-    empty array
-    all same num 
+    nums[0] =1
+    len = 1
     '''
     def minimumOperations(self, nums: List[int]) -> int:
-        seen = set()
+        nums.sort()
         operation = 0
-        for num in nums:
-            if num not in seen and num > 0:
+        for i in range(len(nums)):
+            if nums[i] > 0 and (i == 0 or nums[i] != nums[i - 1]):
                 operation += 1
-                seen.add(num)
         return operation
