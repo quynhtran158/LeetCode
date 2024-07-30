@@ -50,6 +50,7 @@
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
 | ------- |
@@ -92,6 +95,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Tree
 |  |
 | ------- |
@@ -123,4 +127,12 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+## Simulation
+|  |
+| ------- |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
