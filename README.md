@@ -105,6 +105,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
+| [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
+| [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
+| [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -128,6 +131,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
+| [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
