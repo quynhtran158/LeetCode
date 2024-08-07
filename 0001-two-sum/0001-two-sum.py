@@ -1,17 +1,11 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        #using dictionary
-        dict = {}
-        
-        #store the index and val in the dict -> key: val
+        map = {} 
+        #key is num, val is index
         for i, val in enumerate(nums):
             diff = target - val
-            if diff in dict:
-                return [i, dict[diff]]
-            else: 
-                dict[val] = i
-           
+            if diff in map:
+                return [i, map[diff]]
+            else:
+                map[val] = i 
         return None
-        #find the other number which sum up to the target
-
-        
