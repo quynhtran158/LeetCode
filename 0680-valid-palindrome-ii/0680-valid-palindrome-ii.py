@@ -1,23 +1,56 @@
+'''
+understand:
+- what is the maximum length of the string?
+- can the string be empty? how should i return the output?
+- can i assume the string all contains english alphabet?
+- does the string contain non-alphanumeric character?
+
+s = "abca"
+return True (remove either b or c)
+
+s = "abcba"
+return True
+
+s = "abd"
+return True
+
+s= "abdecba"
+return False
+
+s="ebab"
+return True
+
+s="ebadab"
+     l
+        r
+return True
+
+method:
+
+plan 
+- bc of having palindrome, want to have front and end pointer to keep track of the character
+- when we see a different pair, we might want to skip that char and test the rest of the string to see if the string is palindrome if after 1 time skipping, the rest of string still palindrome then return true, ottherwiswe false
+
+
+
+'''
 class Solution:
     def validPalindrome(self, s: str) -> bool:
-        def checkPalindrome(s, left, right):
-            while left < right:
-                if s[left] != s[right]:
+        def isPalindrome(i, j):
+            while i < j:
+                if s[i] != s[j]:
                     return False
-                left += 1
-                right -= 1
-            return True      
-
-        left, right = 0, len(s) - 1
+                i += 1
+                j -= 1
+            return True
+        
+        left, right = 0, len(s)-1
         while left < right:
             if s[left] != s[right]:
-                return checkPalindrome(s, left + 1, right) or checkPalindrome(s, left, right - 1)
-                #because the pair of index left and right is not matching so with this line of code we will check if the character inside of this 2 pair of char (which are not matching) is palindrom or not. If either removing the current left index or the right index make the string palindrom then the helper will return True, if not they will return false and end the program.
-
-            left += 1
-            right -= 1
-
-            # the code will keep running if there is no mismatch character, then the increment and decremtn the pointer
-            # if the keep incrementing and decrementing the index and nothing happens which means that this is a checkPalindrome
-            #then it will break the while loop and return True
-        return True      
+                skip_left = isPalindrome(left+1, right) 
+                skip_right = isPalindrome(left, right-1)
+                return skip_left or skip_right
+            left +=1
+            right -=1
+        return True
+            
