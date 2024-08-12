@@ -63,6 +63,7 @@
 | [0680-valid-palindrome-ii](https://github.com/quynhtran158/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
+| [1894-merge-strings-alternately](https://github.com/quynhtran158/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0205-isomorphic-strings](https://github.com/quynhtran158/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/quynhtran158/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/quynhtran158/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/quynhtran158/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
