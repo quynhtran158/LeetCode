@@ -29,3 +29,4 @@ class Solution:
             res += word2[min_len:]
         
         return "".join(res)
+        #join() from ["a", "b"] to [ab]
