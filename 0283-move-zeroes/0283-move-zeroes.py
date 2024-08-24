@@ -9,8 +9,8 @@ check if left is 0, and right not 0, swap
 
 happy case: 
 nums = [1,3,0,0,12]
-            l
-                r
+        l
+        r
 nums = [3,0,1,0,3,12]
           l
           r
@@ -30,8 +30,9 @@ class Solution:
         """
         left = 0
         for right in range(len(nums)):
-            if nums[right] != 0:
-                nums[left], nums[right] = nums[right], nums[left] #even though 1st index is not 0, but current right is at 1st ind so nothing happen
+            if nums[left] != 0:
+                left += 1
+            elif nums[right] != 0:
+                nums[left], nums[right] = nums[right], nums[left]
                 left += 1
         return nums
-
