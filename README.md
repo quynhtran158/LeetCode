@@ -56,6 +56,7 @@
 | [0792-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/quynhtran158/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/quynhtran158/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -175,6 +176,7 @@
 | [0205-isomorphic-strings](https://github.com/quynhtran158/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/quynhtran158/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/quynhtran158/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/quynhtran158/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/quynhtran158/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
