@@ -45,6 +45,7 @@
 | [0001-two-sum](https://github.com/quynhtran158/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/quynhtran158/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quynhtran158/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -101,6 +102,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
