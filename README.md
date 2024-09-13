@@ -194,6 +194,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/quynhtran158/LeetCode/tree/master/0007-reverse-integer) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
 ## Sliding Window
 |  |
