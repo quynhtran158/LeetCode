@@ -65,6 +65,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/quynhtran158/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,6 +97,7 @@
 | [0941-sort-array-by-parity](https://github.com/quynhtran158/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0792-binary-search) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -134,6 +137,7 @@
 | [0680-valid-palindrome-ii](https://github.com/quynhtran158/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Tree
 |  |
 | ------- |
@@ -213,4 +217,8 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
+## Prefix Sum
+|  |
+| ------- |
+| [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 <!---LeetCode Topics End-->
