@@ -42,7 +42,7 @@ class Solution:
         #traverse from start to middle and compare with the 2nd half of LL
         first_half = head
         second_half = prev
-        while second_half and first_half:
+        while second_half:
             if first_half.val != second_half.val:
                 return False
             first_half = first_half.next
