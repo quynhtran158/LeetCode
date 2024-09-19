@@ -129,6 +129,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 ## Greedy
 |  |
@@ -229,4 +230,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/quynhtran158/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
