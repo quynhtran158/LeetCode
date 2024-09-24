@@ -24,16 +24,20 @@ from collections import Counter
 import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        frequency = {}
         if k == len(nums):
             return nums
-        cnt = Counter(nums) #this will count each num with its frequency as a hashmap
+        for num in nums:
+            if num not in frequency:
+                frequency[num] = 1
+            frequency[num] += 1
         heap = []
 
-        for num, freq in cnt.items():
+        for num, freq in frequency.items():
             heapq.heappush(heap, (freq, num))
             if len(heap) > k:
                 heapq.heappop(heap)
             
-        return [num for freq, num in heap]
+        return [num for freq, num  in heap]
 
 
