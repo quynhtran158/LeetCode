@@ -62,6 +62,7 @@
 | [0792-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0792-binary-search) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/quynhtran158/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/quynhtran158/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -129,6 +130,7 @@
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
