@@ -60,6 +60,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/quynhtran158/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0792-binary-search) |
+| [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/quynhtran158/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
@@ -168,6 +169,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
 | [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -263,4 +265,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Graph
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
+## Topological Sort
+|  |
+| ------- |
+| [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
