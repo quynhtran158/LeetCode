@@ -63,6 +63,7 @@
 | [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/quynhtran158/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/quynhtran158/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
@@ -131,6 +132,7 @@
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
@@ -214,6 +216,7 @@
 | [0344-reverse-string](https://github.com/quynhtran158/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/quynhtran158/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/quynhtran158/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/quynhtran158/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
