@@ -53,6 +53,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/quynhtran158/LeetCode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -171,6 +172,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/quynhtran158/LeetCode/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0543-diameter-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
 | [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
@@ -183,6 +185,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/quynhtran158/LeetCode/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -215,6 +218,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/quynhtran158/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/quynhtran158/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/quynhtran158/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0344-reverse-string](https://github.com/quynhtran158/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/quynhtran158/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -274,10 +278,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/quynhtran158/LeetCode/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/quynhtran158/LeetCode/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
 <!---LeetCode Topics End-->
