@@ -66,7 +66,6 @@ class Solution:
         for node in graph:
             if indegree[node] == 0:
                 heappush(pq,node)
-                
         while pq:
             node = heappop(pq)
             res.append(node)
@@ -74,7 +73,7 @@ class Solution:
                 indegree[neighbor] -= 1
                 if indegree[neighbor] == 0:
                     heappush(pq, neighbor)
-        return res if len(res) == len(graph)else None #len == is DAG no cycle, len != there are node has no 0 indegree -> cycle
+        return res if len(res) == len(graph) else None #len == is DAG no cycle, len != there are node has no 0 indegree -> cycle
  
     def alienOrder(self, words: List[str]) -> str:
         graph = self.buildGraph(words)
