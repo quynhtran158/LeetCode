@@ -9,22 +9,24 @@ class Solution:
         
         '''
         uniqueEmail = set()
+    
         for email in emails:
             cleanLocal = []
-            #check the local name:
             for currChar in email:
                 if currChar == "+" or currChar == "@":
                     break
                 if currChar != ".":
                     cleanLocal.append(currChar)
-
+            
             domain = []
             for currChar in reversed(email):
                 domain.append(currChar)
                 if currChar == "@":
                     break
-
-            domain = "".join(domain[::-1])
+                
+            
             cleanLocal = "".join(cleanLocal)
+            domain = "".join(domain[::-1])
             uniqueEmail.add(cleanLocal + domain)
         return len(uniqueEmail)
+                
