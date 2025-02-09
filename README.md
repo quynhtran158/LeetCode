@@ -192,6 +192,7 @@
 | [0210-course-schedule-ii](https://github.com/quynhtran158/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1142-minimum-knight-moves](https://github.com/quynhtran158/LeetCode/tree/master/1142-minimum-knight-moves) |
 ## Binary Tree
 |  |
 | ------- |
