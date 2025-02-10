@@ -73,6 +73,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/quynhtran158/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/quynhtran158/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/quynhtran158/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -142,6 +143,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/quynhtran158/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Linked List
 |  |
@@ -245,6 +247,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/quynhtran158/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/quynhtran158/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/quynhtran158/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/quynhtran158/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Math
 |  |
@@ -305,6 +308,7 @@
 | [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
 | [2121-find-if-path-exists-in-graph](https://github.com/quynhtran158/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/quynhtran158/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Topological Sort
 |  |
 | ------- |
@@ -312,6 +316,7 @@
 | [0210-course-schedule-ii](https://github.com/quynhtran158/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/quynhtran158/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Union Find
 |  |
 | ------- |
