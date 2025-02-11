@@ -22,7 +22,7 @@ class Solution:
 
         def dfs(start):
             if start == len(nums):
-                res.append(path[:])
+                res.append(path[:]) #int mutable nen can copy de backtrack k modify
                 return
             
             for i, num in enumerate(nums):
