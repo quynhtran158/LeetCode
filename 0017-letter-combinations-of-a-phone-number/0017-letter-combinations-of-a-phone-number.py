@@ -1,30 +1,25 @@
 class Solution:
     def letterCombinations(self, digits: str) -> List[str]:
-        keyboard = {
-            "2": "abc",
-            "3": "def",
-            "4": "ghi",
-            "5": "jkl",
-            "6": "mno",
-            "7":"pqrs",
-            "8": "tuv",
-            "9": "wxyz" 
+        self.ans = []
+        if not digits: return self.ans
+        phone_map = {
+		    '2': 'abc',
+		    '3': 'def',
+		    '4': 'ghi',
+		    '5': 'jkl',
+		    '6': 'mno',
+		    '7': 'pqrs',
+		    '8': 'tuv',
+		    '9': 'wxyz'
         }
-        
-        ans = []
-        def dfs(start_index: int, path: list) -> None:
-            #base case la add het cac char cua cai so do
-            if start_index == len(digits):
-                ans.append("".join(path))
+        def backtrack(current, next_digits):
+            if len(next_digits) == 0: 
+                self.ans.append(current[:])
                 return 
-            next_number = digits[start_index]
-            for char in keyboard[next_number]:
-                path.append(char)
-                dfs(start_index + 1, path)
-                path.pop()
-            return ans
-
-        return dfs(0, [])
-
-
-   
+		    
+            for letter in phone_map[next_digits[0]]:
+                backtrack(current + letter, next_digits[1:])
+            
+        backtrack("", digits)
+            
+        return self.ans
