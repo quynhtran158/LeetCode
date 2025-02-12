@@ -51,6 +51,7 @@
 | [0088-merge-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quynhtran158/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/quynhtran158/LeetCode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
@@ -120,6 +121,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quynhtran158/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/quynhtran158/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/quynhtran158/LeetCode/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
@@ -138,6 +140,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/quynhtran158/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/quynhtran158/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/quynhtran158/LeetCode/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/quynhtran158/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
@@ -243,6 +246,7 @@
 | [0022-generate-parentheses](https://github.com/quynhtran158/LeetCode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/quynhtran158/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/quynhtran158/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/quynhtran158/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0344-reverse-string](https://github.com/quynhtran158/LeetCode/tree/master/0344-reverse-string) |
@@ -340,4 +344,12 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
