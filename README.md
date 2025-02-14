@@ -179,6 +179,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/quynhtran158/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/quynhtran158/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -224,6 +225,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/quynhtran158/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/quynhtran158/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/quynhtran158/LeetCode/tree/master/2384-root-equals-sum-of-children) |
 ## Heap (Priority Queue)
@@ -357,4 +359,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/quynhtran158/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
