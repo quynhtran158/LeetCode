@@ -1,23 +1,27 @@
 class Solution:
-    '''
-    using sort to check: time: O(nlogn), space: O(1)
-    return the first index of the anagram
-    - determind anagram: check each char in both string respectively to find the matching char
-    if reach the end of both strings and cannot find all matching char of check -> not anagram
-    - index of the orginal will be reset to beginnign of window
-    - using sliding window with size of len(check) to find the first index quicker
-
-    '''
     def findAnagrams(self, s: str, p: str) -> List[int]:
-        window_size = len(p)
-        check_sorted = sorted(p)  # Sort once for comparison
+        windowSize = len(p)
+        checkFreq = Counter(p) #O(n)
+        print("checkFreq",checkFreq)
+        windowFreq = Counter(s[0:windowSize]) # O(n)
+        print('winFreq', windowFreq)
         res = []
-        # Iterate through all possible substrings of length `window_size`
-        for left in range(len(s) - window_size + 1):
-            window = s[left:left + window_size]
-            
-            if sorted(window) == check_sorted:  # Compare sorted versions
-                res.append(left) # Return the first index
+        print("after")
 
-        return res  # If no anagram is found
-        
+        if checkFreq == windowFreq:
+            res.append(0) #first anagram
+
+        for right in range(windowSize, len(s)):
+            left = right - windowSize
+            windowFreq[s[left]] -= 1 #we remove previous left val in the new window
+            if windowFreq[s[left]] == 0:
+                del windowFreq[s[left]]
+            windowFreq[s[right]] += 1
+            print('winFreq', windowFreq)
+            print("------")
+            if checkFreq == windowFreq:
+                res.append(left+1) #left + 1 is the new start idx of current window
+                print("left+1", left + 1)
+                print("------")
+                #left is the old window
+        return res
