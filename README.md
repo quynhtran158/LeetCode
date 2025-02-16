@@ -73,6 +73,7 @@
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/quynhtran158/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/quynhtran158/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
