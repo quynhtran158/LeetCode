@@ -1,45 +1,30 @@
 class Solution:
     '''
-    understand
-    - what is the maximum length of the string?
-    - can the string be empty? if yes what should i return?
-    - can i assume all english alphabet?
-    - is the string case sensitive?
-    
+    is the string contain all english alphabet? -> yes
+    does it contain number? -> no
+    does it contain non-alphanumeric char? -> yes ( #!#$)
+    is the string case sensitive? ->  no
+    does the string has space between 2 words? -> yes
+    does the string has multiple space between 2 word? -> no
+    is the palidrome space sensitive? -> no
+    is the string never emtpy?
+
     plan:
-    keep track of the front and the back of the string
-    keep track of non-alphanumeric character, if non-alphanumeric char skip, is alpha continue checking
-    if iterating through the array, all character is the same as the front and the back then true, otherwise false
+    has 2 pointer l at the head and r at the tail of the string
+    move 2 pointes toward each other, stop when l > r
+    when the curren pointer at space, skip the space, dont count the space in the comparision
 
-    implement:
-    have two pointer to keep track of the front and the back of the string
-    if non-alpha, skip, if is alpha continue checking
-
-
-
+    - remove all non-alphanumeric in the string
     '''
     def isPalindrome(self, s: str) -> bool:
-        left, right = 0, len(s)-1
-        #check if the character is alphabet char
-        while left < right:
-            while left < right and not s[left].isalnum():
-                left += 1
-            while left < right and not s[right].isalnum():
-                right -= 1
-        #at this point, both char at L and R are character
-        #check if the current alphabet char, lowercase is the same
-            #same char, moving on
-            if s[left].lower() == s[right].lower():
-                left += 1
-                right -= 1
-            else:
+        str = "".join(char for char in s if char.isalnum()) #remove all non-alphanumeric char
+        l, r = 0, len(str)-1
+        while l < r:
+            print ("str[l]",str[l])
+            print ("str[r]",str[r])
+
+            if str[l].lower() != str[r].lower():
                 return False
+            l += 1
+            r -= 1
         return True
-               
-            
-            
-
-
-
-
-        
