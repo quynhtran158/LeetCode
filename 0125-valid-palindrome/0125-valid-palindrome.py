@@ -20,9 +20,6 @@ class Solution:
         str = "".join(char for char in s if char.isalnum()) #remove all non-alphanumeric char
         l, r = 0, len(str)-1
         while l < r:
-            print ("str[l]",str[l])
-            print ("str[r]",str[r])
-
             if str[l].lower() != str[r].lower():
                 return False
             l += 1
