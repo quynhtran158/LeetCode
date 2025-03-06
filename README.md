@@ -65,6 +65,7 @@
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/quynhtran158/LeetCode/tree/master/0455-assign-cookies) |
+| [0643-maximum-average-subarray-i](https://github.com/quynhtran158/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/quynhtran158/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0792-binary-search) |
@@ -292,6 +293,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/quynhtran158/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/quynhtran158/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/quynhtran158/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/quynhtran158/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
