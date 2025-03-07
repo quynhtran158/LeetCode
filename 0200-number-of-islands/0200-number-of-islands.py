@@ -1,43 +1,38 @@
-from collections import deque
-from typing import List
-
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        num_rows = len(grid)
-        num_cols = len(grid[0])
-
-        def get_neighbors(coord):
-            res = []
+        numRow, numCol = len(grid), len(grid[0])
+        def get_neighbor(coord):
             row, col = coord
             delta_row = [-1, 0, 1, 0]
-            delta_col = [0, 1, 0, -1]
-            for i in range(len(delta_row)):
-                r = row + delta_row[i]
-                c = col + delta_col[i]
-                if 0 <= r < num_rows and 0 <= c < num_cols:
-                    res.append((r, c))
-            return res
-
-        def bfs(start):
-            queue = deque([start])
-            r, c = start
-            grid[r][c] = '0'  # mark as visited by changing '1' to '0'
-            while len(queue) > 0:
-                node = queue.popleft()
-                for neighbor in get_neighbors(node):
-                    r, c = neighbor
-                    if grid[r][c] == '0':  # already visited or water
-                        continue
-                    queue.append(neighbor)
-                    grid[r][c] = '0'  # mark as visited
-
-        count = 0
-        # bfs starting from each unvisited land cell
-        for r in range(num_rows):
-            for c in range(num_cols):
-                if grid[r][c] == '0':  # skip water cells
-                    continue
-                bfs((r, c))  # start bfs from this land cell
-                count += 1  # bfs would find 1 connected island, increment count
+            delta_col = [0, 1, 0 , -1]
+            res = []
         
+            for i in range(len(delta_col)):
+                neighbor_row = row + delta_row[i]
+                neighbor_col = col + delta_col[i]
+                if 0 <= neighbor_row < numRow and 0 <= neighbor_col < numCol:
+                    res.append((neighbor_row, neighbor_col))
+            return res
+        
+        def bfs(start):
+            q = deque([start])
+            r, c = start
+            grid[r][c] = "0" #mark = 0 as visited, change from 1 to 0
+            while q:
+                node = q.popleft()
+                for neighbor in get_neighbor(node):
+                    nr, nc = neighbor
+                    if grid[nr][nc] == "0":
+                        continue
+                    q.append(neighbor)
+                    grid[nr][nc] = "0"
+        count = 0
+        for r in range(numRow):
+            for c in range(numCol):
+                if grid[r][c] == "0":
+                    continue
+                bfs((r,c))
+                count += 1
         return count
+                    
+        
