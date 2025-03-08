@@ -75,6 +75,7 @@
 | [0941-sort-array-by-parity](https://github.com/quynhtran158/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1036-rotting-oranges](https://github.com/quynhtran158/LeetCode/tree/master/1036-rotting-oranges) |
 | [1306-minimum-absolute-difference](https://github.com/quynhtran158/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/quynhtran158/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -228,6 +229,7 @@
 | [0286-walls-and-gates](https://github.com/quynhtran158/LeetCode/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/quynhtran158/LeetCode/tree/master/0322-coin-change) |
 | [1005-univalued-binary-tree](https://github.com/quynhtran158/LeetCode/tree/master/1005-univalued-binary-tree) |
+| [1036-rotting-oranges](https://github.com/quynhtran158/LeetCode/tree/master/1036-rotting-oranges) |
 | [1142-minimum-knight-moves](https://github.com/quynhtran158/LeetCode/tree/master/1142-minimum-knight-moves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/quynhtran158/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -368,6 +370,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/quynhtran158/LeetCode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/quynhtran158/LeetCode/tree/master/0286-walls-and-gates) |
+| [1036-rotting-oranges](https://github.com/quynhtran158/LeetCode/tree/master/1036-rotting-oranges) |
 ## Geometry
 |  |
 | ------- |
