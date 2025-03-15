@@ -49,6 +49,7 @@
 | [0035-search-insert-position](https://github.com/quynhtran158/LeetCode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/quynhtran158/LeetCode/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/quynhtran158/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quynhtran158/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/quynhtran158/LeetCode/tree/master/0022-generate-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/quynhtran158/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quynhtran158/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/quynhtran158/LeetCode/tree/master/0131-palindrome-partitioning) |
