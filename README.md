@@ -69,6 +69,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/quynhtran158/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/quynhtran158/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/quynhtran158/LeetCode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0792-binary-search) |
 | [0875-longest-mountain-in-array](https://github.com/quynhtran158/LeetCode/tree/master/0875-longest-mountain-in-array) |
 | [0881-loud-and-rich](https://github.com/quynhtran158/LeetCode/tree/master/0881-loud-and-rich) |
@@ -319,6 +320,7 @@
 | [0020-valid-parentheses](https://github.com/quynhtran158/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/quynhtran158/LeetCode/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Prefix Sum
 |  |
@@ -421,4 +423,8 @@
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/quynhtran158/LeetCode/tree/master/0875-longest-mountain-in-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/quynhtran158/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
