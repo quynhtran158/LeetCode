@@ -14,7 +14,7 @@ class Solution:
                 indegree[neighbor] += 1
         return indegree
     
-    def topoSort(self, graph, quiet):
+    def topoSort(self, graph):
         indegree = self.findIndegree(graph)
         q = deque()
         sorted_order = []
@@ -36,7 +36,7 @@ class Solution:
         graph = self.buildGraph(nodes, richer)
         res = [i for i in range(len(quiet))] #intialize the val of its person quietness by their order e.g. 0th per = 0
         #with this, later we can use their value as the index in the quiet array later
-        sorted_order = self.topoSort(graph, quiet) #ascending order: rich to poor
+        sorted_order = self.topoSort(graph) #ascending order: rich to poor
 
         for node in sorted_order:
             for neighbor in graph[node]:
@@ -51,6 +51,4 @@ class Solution:
                     nen moi co res[neighbor] = res[node] 
                     -> nghia la node > neighbor va dam bao quietest nhat trong dam richer cua node
                     '''
-
-
         return res
