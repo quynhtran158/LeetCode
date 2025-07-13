@@ -306,6 +306,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/quynhtran158/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/quynhtran158/LeetCode/tree/master/0013-roman-to-integer) |
+| [0263-ugly-number](https://github.com/quynhtran158/LeetCode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
