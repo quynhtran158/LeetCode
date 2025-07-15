@@ -27,7 +27,7 @@ class Solution:
                             visited.add((new_r, new_c))
                             queue.append((new_r, new_c))
                 steps += 1
-            return -1  # unreachable target, but it won't happen in this problem
+            return -1  # unreachable target
 
         # The BFS starts from (0, 0) and we want to find the shortest path to (x, y)
         return bfs((0, 0), (x, y))
