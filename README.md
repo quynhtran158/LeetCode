@@ -84,6 +84,7 @@
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/quynhtran158/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [2058-concatenation-of-array](https://github.com/quynhtran158/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2094-remove-stones-to-minimize-the-total](https://github.com/quynhtran158/LeetCode/tree/master/2094-remove-stones-to-minimize-the-total) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/quynhtran158/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -276,6 +277,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2058-concatenation-of-array](https://github.com/quynhtran158/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/quynhtran158/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## String
