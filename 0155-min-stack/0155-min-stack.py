@@ -17,7 +17,6 @@ class MinStack:
     def pop(self) -> None:
         #have to pop both stacks bc what if the val of the stack if the min (val) of the minStack?
         self.stack.pop()
-        # if self.minStack[-1] == self.stack[-1]:
         self.minStack.pop() 
 
     def top(self) -> int:
