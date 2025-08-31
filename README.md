@@ -55,6 +55,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/quynhtran158/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/quynhtran158/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/quynhtran158/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quynhtran158/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -311,6 +312,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/quynhtran158/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/quynhtran158/LeetCode/tree/master/0013-roman-to-integer) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/quynhtran158/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/quynhtran158/LeetCode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -327,6 +329,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/quynhtran158/LeetCode/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/quynhtran158/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/quynhtran158/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
