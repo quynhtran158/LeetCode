@@ -171,6 +171,7 @@
 | [0133-clone-graph](https://github.com/quynhtran158/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/quynhtran158/LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/quynhtran158/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -186,6 +187,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/quynhtran158/LeetCode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -429,6 +431,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/quynhtran158/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/quynhtran158/LeetCode/tree/master/0155-min-stack) |
 | [0969-number-of-recent-calls](https://github.com/quynhtran158/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
@@ -448,4 +451,8 @@
 | ------- |
 | [0739-daily-temperatures](https://github.com/quynhtran158/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/quynhtran158/LeetCode/tree/master/0883-car-fleet) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/quynhtran158/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
