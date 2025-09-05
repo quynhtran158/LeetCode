@@ -68,6 +68,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/quynhtran158/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0455-assign-cookies](https://github.com/quynhtran158/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/quynhtran158/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/quynhtran158/LeetCode/tree/master/0713-subarray-product-less-than-k) |
@@ -177,6 +178,7 @@
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/quynhtran158/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0778-reorganize-string](https://github.com/quynhtran158/LeetCode/tree/master/0778-reorganize-string) |
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -282,6 +284,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2058-concatenation-of-array](https://github.com/quynhtran158/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -433,10 +436,12 @@
 | ------- |
 | [0146-lru-cache](https://github.com/quynhtran158/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/quynhtran158/LeetCode/tree/master/0155-min-stack) |
+| [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0969-number-of-recent-calls](https://github.com/quynhtran158/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0969-number-of-recent-calls](https://github.com/quynhtran158/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
