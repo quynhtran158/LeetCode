@@ -67,6 +67,7 @@
 | [0322-coin-change](https://github.com/quynhtran158/LeetCode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/quynhtran158/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0455-assign-cookies](https://github.com/quynhtran158/LeetCode/tree/master/0455-assign-cookies) |
@@ -177,6 +178,7 @@
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/quynhtran158/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -284,6 +286,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -412,6 +415,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/quynhtran158/LeetCode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/quynhtran158/LeetCode/tree/master/0286-walls-and-gates) |
+| [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [1036-rotting-oranges](https://github.com/quynhtran158/LeetCode/tree/master/1036-rotting-oranges) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/quynhtran158/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
 ## Geometry
@@ -436,6 +440,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/quynhtran158/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/quynhtran158/LeetCode/tree/master/0155-min-stack) |
+| [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0969-number-of-recent-calls](https://github.com/quynhtran158/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Queue
