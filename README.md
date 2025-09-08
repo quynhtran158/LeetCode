@@ -290,6 +290,7 @@
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1708-design-parking-system](https://github.com/quynhtran158/LeetCode/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/quynhtran158/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/quynhtran158/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -380,6 +381,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/quynhtran158/LeetCode/tree/master/0778-reorganize-string) |
+| [1708-design-parking-system](https://github.com/quynhtran158/LeetCode/tree/master/1708-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -443,6 +445,7 @@
 | [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0969-number-of-recent-calls](https://github.com/quynhtran158/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [1708-design-parking-system](https://github.com/quynhtran158/LeetCode/tree/master/1708-design-parking-system) |
 ## Queue
 |  |
 | ------- |
