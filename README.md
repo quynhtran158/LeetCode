@@ -57,6 +57,7 @@
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/quynhtran158/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/quynhtran158/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quynhtran158/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,7 @@
 | ------- |
 | [0015-3sum](https://github.com/quynhtran158/LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quynhtran158/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -177,6 +179,7 @@
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/quynhtran158/LeetCode/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/quynhtran158/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -380,6 +383,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quynhtran158/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -390,6 +394,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/quynhtran158/LeetCode/tree/master/0778-reorganize-string) |
 | [1708-design-parking-system](https://github.com/quynhtran158/LeetCode/tree/master/1708-design-parking-system) |
