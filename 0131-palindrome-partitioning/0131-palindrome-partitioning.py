@@ -28,6 +28,12 @@ To make sure we include s[start:n], our loop must let end reach n.
 But because Python slices stop before end, the loop goes to n+1.
 
 start là vị trí bắt đầu chuỗi aka chỗ bị cắt để tìm the remaing substring for recursion
+TC: between each 2 number there a gap => n number has n-1 gap, at each gap has 2 decision: cut or not => O(2^(n-1)) for total operation, O(k) to check the prefix is palindrom 
+
+TC: O(n * 2^n)
+Space: depend on height of state tree -> worst case s = aaaaa -> O(n))
+
+pruning usually path.pop(), but in this case prune by checking isPalindrome
 '''
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
