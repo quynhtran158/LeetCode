@@ -1,23 +1,20 @@
+'''
+all english? yes
+case-insensitive
+puntation, symbol? yes
+has space?
+number? yse
+
+left pointer at head, right pointer at tail of array moving toward each other until l >= right
+skip space, skip non-numeric, keep alphanumeric only
+
+
+
+'''
 class Solution:
-    '''
-    is the string contain all english alphabet? -> yes
-    does it contain number? -> no
-    does it contain non-alphanumeric char? -> yes ( #!#$)
-    is the string case sensitive? ->  no
-    does the string has space between 2 words? -> yes
-    does the string has multiple space between 2 word? -> no
-    is the palidrome space sensitive? -> no
-    is the string never emtpy?
-
-    plan:
-    has 2 pointer l at the head and r at the tail of the string
-    move 2 pointes toward each other, stop when l > r
-    when the curren pointer at space, skip the space, dont count the space in the comparision
-
-    - remove all non-alphanumeric in the string
-    '''
     def isPalindrome(self, s: str) -> bool:
-        str = "".join(char for char in s if char.isalnum()) #remove all non-alphanumeric char
+        #remove space, non-alphanumeric
+        str = "".join(char for char in s if char.isalnum())
         l, r = 0, len(str)-1
         while l < r:
             if str[l].lower() != str[r].lower():
@@ -25,3 +22,5 @@ class Solution:
             l += 1
             r -= 1
         return True
+
+        
