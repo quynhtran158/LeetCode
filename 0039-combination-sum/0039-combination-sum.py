@@ -11,7 +11,7 @@ class Solution:
 
             # Recursive exploration
             for i in range(start, len(candidates)): #this will make sure the repetition wont happend bc after the
-            #first 1 is done exploring, it will start 
+            #first 1 is done exploring, it will start with 2, wont have [1,1,2] [2,1,1]
                 path.append(candidates[i])
                 dfs(i, path, currSum + candidates[i])  # reuse allowed → dfs(i,..)
                 path.pop()  # backtrack
