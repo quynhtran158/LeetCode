@@ -3,8 +3,8 @@ class Solution:
         window = set()
         left = 0 
         ans = 0
-        if len(s) == 0:
-            return ans
+        # if len(s) == 0:
+        #     return ans
         for right in range(len(s)):
             while s[right] in window:
                 window.remove(s[left])
