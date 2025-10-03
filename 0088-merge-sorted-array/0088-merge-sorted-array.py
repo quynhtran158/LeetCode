@@ -1,31 +1,36 @@
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
         """
-        nums1 = [1,2,3,0,0,0], m = 3, nums2 = [2,5,6], n = 3
-                     l.    
-                           ind.       
-                                                    r
-        do i need to increase the length of the nums1 by myself?
-        can nums1 or nums2 be empty? can both arr be empty?
+    as this is non-decreasing order 2 array
+    - start at the back of both array to get biggest number of each array then merge/insert the number from the back of num1 by bigger to smaller order
+    - use 3 pointer: 1 at the back of nums1
+    1 at the back of nums2
+    1 at the end of the actual number in nums1
 
+the nums1 has extra 0 to fit both nums1 and nums2 len
+    ex: 
+     nums1 = [1,2,3,0,0,0]
+                  1     1 
+     nums2 = [2,5,6]
+                  3
+
+    time: O(n)
+    space: O(1) since we merge in place 
         """
-        l, r, index = m -1, n-1, (m+n)-1
-        while  l >= 0 and r >= 0:
-            if nums2[r] >= nums1[l]:
-                nums1[index] = nums2[r]
-                r -= 1
-            #move right down bc we add it to the ind, need to find another one
-            else:
-                nums1[index] = nums1[l]
-                l -= 1
-            index -= 1
-           
-        # If there are remaining elements in nums2, copy them into nums1
-        #here, where we visted all of 
-        while r >= 0:
-            nums1[index] = nums2[r]
-            r -= 1
-            index -= 1
+        left, right = m - 1, n -1 #pointer at the end of the arrays
+        p = m + n - 1 #
+        while right >=0:
+            if left >= 0 and nums2[right] <= nums1[left]:
+                nums1[p] = nums1[left]
+                left -= 1
+            else: #(left < 0) or (nums2[right] > nums1[left])
+                #left < 0 but right >= 0 means reach the start of num1 but num2 didnt
+                nums1[p] = nums2[right]
+                right -= 1
+            p -= 1
+                
         return nums1
+
+
 
         
