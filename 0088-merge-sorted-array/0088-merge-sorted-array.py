@@ -17,17 +17,17 @@ the nums1 has extra 0 to fit both nums1 and nums2 len
     time: O(n)
     space: O(1) since we merge in place 
         """
-        left, right = m - 1, n -1 #pointer at the end of the arrays
-        p = m + n - 1 #
-        while right >=0:
-            if left >= 0 and nums2[right] <= nums1[left]:
-                nums1[p] = nums1[left]
-                left -= 1
+        num1_index, num2_index = m - 1, n -1 #pointer at the end of the arrays
+        back = m + n - 1 
+        while num2_index >=0:
+            if num1_index >= 0 and nums2[num2_index] <= nums1[num1_index]:
+                nums1[back] = nums1[num1_index]
+                num1_index -= 1
             else: #(left < 0) or (nums2[right] > nums1[left])
                 #left < 0 but right >= 0 means reach the start of num1 but num2 didnt
-                nums1[p] = nums2[right]
-                right -= 1
-            p -= 1
+                nums1[back] = nums2[num2_index]
+                num2_index -= 1
+            back -= 1
                 
         return nums1
 
