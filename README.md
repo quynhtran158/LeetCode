@@ -93,6 +93,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/quynhtran158/LeetCode/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/quynhtran158/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1272-invalid-transactions](https://github.com/quynhtran158/LeetCode/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/quynhtran158/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/quynhtran158/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -148,6 +149,7 @@
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/quynhtran158/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1272-invalid-transactions](https://github.com/quynhtran158/LeetCode/tree/master/1272-invalid-transactions) |
 | [1306-minimum-absolute-difference](https://github.com/quynhtran158/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -201,6 +203,7 @@
 | [0778-reorganize-string](https://github.com/quynhtran158/LeetCode/tree/master/0778-reorganize-string) |
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1006-vowel-spellchecker](https://github.com/quynhtran158/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1272-invalid-transactions](https://github.com/quynhtran158/LeetCode/tree/master/1272-invalid-transactions) |
 | [1391-counting-elements](https://github.com/quynhtran158/LeetCode/tree/master/1391-counting-elements) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/quynhtran158/LeetCode/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/quynhtran158/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -346,6 +349,7 @@
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1006-vowel-spellchecker](https://github.com/quynhtran158/LeetCode/tree/master/1006-vowel-spellchecker) |
+| [1272-invalid-transactions](https://github.com/quynhtran158/LeetCode/tree/master/1272-invalid-transactions) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/quynhtran158/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/quynhtran158/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/quynhtran158/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
