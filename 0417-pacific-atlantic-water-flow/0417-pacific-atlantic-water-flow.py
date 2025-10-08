@@ -6,6 +6,12 @@ start with the edge: top and left for pacific, bottom and right col for left -> 
 - if the neighbor of edge has higher or equal amount, add to the queue, if not meet condition skip 
 - after find all coord reach pacific and atlantic, find intersection. the coord that in both queue will be the answer 
 - move if water in next cell > current cell (h[x][y] > h[i][j])
+
+
+not thinking reverse then Total Time = (Number of cells to check) × (Work done per cell)
+Total Time = (m * n) × (O(m * n) for the Pacific search + O(m * n) for the Atlantic search)
+Total Time = (m * n) × O(m * n)
+Total Time = O(m² * n²)
 '''
 from collections import deque
 class Solution:
