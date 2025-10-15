@@ -103,6 +103,7 @@
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/quynhtran158/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/quynhtran158/LeetCode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/quynhtran158/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2358-number-of-ways-to-split-array](https://github.com/quynhtran158/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/quynhtran158/LeetCode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [3764-maximum-sum-with-at-most-k-elements](https://github.com/quynhtran158/LeetCode/tree/master/3764-maximum-sum-with-at-most-k-elements) |
@@ -391,6 +392,7 @@
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/quynhtran158/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [2358-number-of-ways-to-split-array](https://github.com/quynhtran158/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Backtracking
 |  |
