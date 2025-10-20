@@ -75,6 +75,7 @@
 | [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
+| [0410-split-array-largest-sum](https://github.com/quynhtran158/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/quynhtran158/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/quynhtran158/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/quynhtran158/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -167,6 +168,7 @@
 | [0131-palindrome-partitioning](https://github.com/quynhtran158/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/quynhtran158/LeetCode/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/quynhtran158/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/quynhtran158/LeetCode/tree/master/0875-longest-mountain-in-array) |
 ## Binary Search
 |  |
@@ -176,6 +178,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0270-closest-binary-search-tree-value](https://github.com/quynhtran158/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/quynhtran158/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/quynhtran158/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -225,6 +228,7 @@
 | [0011-container-with-most-water](https://github.com/quynhtran158/LeetCode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/quynhtran158/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/quynhtran158/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/quynhtran158/LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/quynhtran158/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/quynhtran158/LeetCode/tree/master/0778-reorganize-string) |
@@ -391,6 +395,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/quynhtran158/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/quynhtran158/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [2358-number-of-ways-to-split-array](https://github.com/quynhtran158/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/quynhtran158/LeetCode/tree/master/2469-longest-subsequence-with-limited-sum) |
