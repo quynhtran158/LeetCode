@@ -53,6 +53,7 @@
 | [0040-combination-sum-ii](https://github.com/quynhtran158/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/quynhtran158/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/quynhtran158/LeetCode/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/quynhtran158/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/quynhtran158/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/quynhtran158/LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/quynhtran158/LeetCode/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/quynhtran158/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quynhtran158/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
