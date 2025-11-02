@@ -53,6 +53,7 @@
 | [0040-combination-sum-ii](https://github.com/quynhtran158/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/quynhtran158/LeetCode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/quynhtran158/LeetCode/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/quynhtran158/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/quynhtran158/LeetCode/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/quynhtran158/LeetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -324,6 +325,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/quynhtran158/LeetCode/tree/master/0054-spiral-matrix) |
 | [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0735-asteroid-collision](https://github.com/quynhtran158/LeetCode/tree/master/0735-asteroid-collision) |
@@ -470,6 +472,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/quynhtran158/LeetCode/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/quynhtran158/LeetCode/tree/master/0200-number-of-islands) |
 | [0286-walls-and-gates](https://github.com/quynhtran158/LeetCode/tree/master/0286-walls-and-gates) |
 | [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
