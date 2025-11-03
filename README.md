@@ -207,6 +207,7 @@
 | [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
+| [0359-logger-rate-limiter](https://github.com/quynhtran158/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/quynhtran158/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0778-reorganize-string](https://github.com/quynhtran158/LeetCode/tree/master/0778-reorganize-string) |
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
@@ -506,6 +507,7 @@
 | [0155-min-stack](https://github.com/quynhtran158/LeetCode/tree/master/0155-min-stack) |
 | [0348-design-tic-tac-toe](https://github.com/quynhtran158/LeetCode/tree/master/0348-design-tic-tac-toe) |
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
+| [0359-logger-rate-limiter](https://github.com/quynhtran158/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0969-number-of-recent-calls](https://github.com/quynhtran158/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [1708-design-parking-system](https://github.com/quynhtran158/LeetCode/tree/master/1708-design-parking-system) |
 ## Queue
@@ -516,6 +518,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/quynhtran158/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0969-number-of-recent-calls](https://github.com/quynhtran158/LeetCode/tree/master/0969-number-of-recent-calls) |
 ## Enumeration
 |  |
