@@ -1,44 +1,24 @@
 '''
-? is query word only 1 word or a list of query words
-? all english keyword, no non-alphanumerice character
-? what is the priority between capitalization vs vowel.
+- exact match: store word in word list to set, if match query -> 
+- capitalization: hashmap, key:val -> all lowercase query : original query word -> traverse query 
+- vowel: hashmap key: val, word in wordlist with vowe remove as *: query
 
-Example:
-wordlist: Kite, Kito
-query: kito 
-
-kito vs Kite: vowel, case-insensitive
-kito vs Kito: capitalization
-what to return?
-
-
-- capitalization: case-insensitive, if word in wordlist match all char with order the word in query -> word in wordlist
-return the 1st word that match query's word from wordlist 
-- check the consonant and its order to see if word in query match with the char with char order in word in wordlist, case-insensitive -> word in wordlist
-return the 1st word that match query's word from wordlist 
-- match exactly order, vowel, consonant and case-sensitive -> word in wordlist
-
-not match return ""
-
-approach: use hashmap and hash set
-- exact match: store word in wordlist in a set, iterate thru query to find the matching word
-- capitalization: hashmap, with value is the original word, key is the lower case version. use hashmap to be able to track the 1st matching word. when we check, if the first (or current word in hash) match with query, we return immediately and skip the rest => return the 1st matching 
-- vowel: hashmap too, 
+setup the condition for word list, then travers query in queries to check to find ans
 
 '''
 class Solution:
-    def spellchecker(self, wordlist: List[str], queries: List[str]) -> List[str]:
-        wordExact= set(wordlist)
+    def spellchecker(self, wordList: List[str], queries: List[str]) -> List[str]:
+        wordExact = set(wordList)
         wordCap = {}
         wordVowel = {}
-        ans = []
+        res = []
 
-        for word in wordlist:
+        for word in wordList:
             if word.lower() not in wordCap:
                 wordCap[word.lower()] = word
 
         def replaceVowel(word):
-            vowel = "aeiou"
+            vowel = "aieou"
             temp = []
             for c in word.lower():
                 if c in vowel:
@@ -46,26 +26,25 @@ class Solution:
                 else:
                     temp.append(c)
             return "".join(temp)
-
-
-        for w in wordlist:
-            if replaceVowel(w) not in wordVowel:
-                wordVowel[replaceVowel(w)] = w
-
+        
+        #add processed word t
+        for word in wordList:
+            if replaceVowel(word) not in wordVowel:
+                wordVowel[replaceVowel(word)] = word
+        
         for query in queries:
             #exact
             if query in wordExact:
-                ans.append(query)
+                res.append(query)
             #capitalization
             elif query.lower() in wordCap:
-                ans.append(wordCap[query.lower()])
+                res.append(wordCap[query.lower()])
             #vowel
             elif replaceVowel(query) in wordVowel:
-                ans.append(wordVowel[replaceVowel(query)])
-            #empty
-            else:
-                ans.append("")
-        return ans
-            
+                res.append(wordVowel[replaceVowel(query)])
+            else: #empty
+                res.append("")
+        return res
 
-        
+
+
