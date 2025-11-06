@@ -385,6 +385,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/quynhtran158/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/quynhtran158/LeetCode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
+| [0507-perfect-number](https://github.com/quynhtran158/LeetCode/tree/master/0507-perfect-number) |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
