@@ -63,6 +63,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/quynhtran158/LeetCode/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/quynhtran158/LeetCode/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/quynhtran158/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/quynhtran158/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
@@ -172,6 +173,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/quynhtran158/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/quynhtran158/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/quynhtran158/LeetCode/tree/master/0140-word-break-ii) |
 | [0322-coin-change](https://github.com/quynhtran158/LeetCode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/quynhtran158/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0875-longest-mountain-in-array](https://github.com/quynhtran158/LeetCode/tree/master/0875-longest-mountain-in-array) |
@@ -199,6 +201,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/quynhtran158/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/quynhtran158/LeetCode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/quynhtran158/LeetCode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/quynhtran158/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/quynhtran158/LeetCode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
@@ -354,6 +357,7 @@
 | [0125-valid-palindrome](https://github.com/quynhtran158/LeetCode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/quynhtran158/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/quynhtran158/LeetCode/tree/master/0140-word-break-ii) |
 | [0187-repeated-dna-sequences](https://github.com/quynhtran158/LeetCode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/quynhtran158/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
@@ -422,6 +426,7 @@
 | [0051-n-queens](https://github.com/quynhtran158/LeetCode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/quynhtran158/LeetCode/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/quynhtran158/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/quynhtran158/LeetCode/tree/master/0140-word-break-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -495,10 +500,12 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/quynhtran158/LeetCode/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/quynhtran158/LeetCode/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/quynhtran158/LeetCode/tree/master/0140-word-break-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
