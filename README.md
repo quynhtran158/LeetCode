@@ -393,6 +393,7 @@
 | [0002-add-two-numbers](https://github.com/quynhtran158/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/quynhtran158/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/quynhtran158/LeetCode/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/quynhtran158/LeetCode/tree/master/0050-powx-n) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/quynhtran158/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/quynhtran158/LeetCode/tree/master/0263-ugly-number) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
@@ -445,6 +446,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/quynhtran158/LeetCode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/quynhtran158/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/quynhtran158/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/quynhtran158/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
