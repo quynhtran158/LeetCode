@@ -72,6 +72,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/quynhtran158/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/quynhtran158/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0252-meeting-rooms](https://github.com/quynhtran158/LeetCode/tree/master/0252-meeting-rooms) |
 | [0269-alien-dictionary](https://github.com/quynhtran158/LeetCode/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/quynhtran158/LeetCode/tree/master/0283-move-zeroes) |
 | [0286-walls-and-gates](https://github.com/quynhtran158/LeetCode/tree/master/0286-walls-and-gates) |
@@ -152,6 +153,7 @@
 | [0169-majority-element](https://github.com/quynhtran158/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/quynhtran158/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/quynhtran158/LeetCode/tree/master/0217-contains-duplicate) |
+| [0252-meeting-rooms](https://github.com/quynhtran158/LeetCode/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/quynhtran158/LeetCode/tree/master/0455-assign-cookies) |
