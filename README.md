@@ -96,6 +96,7 @@
 | [0907-koko-eating-bananas](https://github.com/quynhtran158/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0917-boats-to-save-people](https://github.com/quynhtran158/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/quynhtran158/LeetCode/tree/master/0941-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/quynhtran158/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1006-vowel-spellchecker](https://github.com/quynhtran158/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/quynhtran158/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -378,6 +379,7 @@
 | [0680-valid-palindrome-ii](https://github.com/quynhtran158/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/quynhtran158/LeetCode/tree/master/0778-reorganize-string) |
 | [0874-backspace-string-compare](https://github.com/quynhtran158/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0944-delete-columns-to-make-sorted](https://github.com/quynhtran158/LeetCode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0965-unique-email-addresses](https://github.com/quynhtran158/LeetCode/tree/master/0965-unique-email-addresses) |
 | [1006-vowel-spellchecker](https://github.com/quynhtran158/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1272-invalid-transactions](https://github.com/quynhtran158/LeetCode/tree/master/1272-invalid-transactions) |
