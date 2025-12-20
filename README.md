@@ -84,6 +84,7 @@
 | [0353-design-snake-game](https://github.com/quynhtran158/LeetCode/tree/master/0353-design-snake-game) |
 | [0410-split-array-largest-sum](https://github.com/quynhtran158/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/quynhtran158/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0436-find-right-interval](https://github.com/quynhtran158/LeetCode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/quynhtran158/LeetCode/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/quynhtran158/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0704-binary-search) |
@@ -158,6 +159,7 @@
 | [0252-meeting-rooms](https://github.com/quynhtran158/LeetCode/tree/master/0252-meeting-rooms) |
 | [0347-top-k-frequent-elements](https://github.com/quynhtran158/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0436-find-right-interval](https://github.com/quynhtran158/LeetCode/tree/master/0436-find-right-interval) |
 | [0455-assign-cookies](https://github.com/quynhtran158/LeetCode/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/quynhtran158/LeetCode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/quynhtran158/LeetCode/tree/master/0883-car-fleet) |
@@ -194,6 +196,7 @@
 | [0270-closest-binary-search-tree-value](https://github.com/quynhtran158/LeetCode/tree/master/0270-closest-binary-search-tree-value) |
 | [0349-intersection-of-two-arrays](https://github.com/quynhtran158/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/quynhtran158/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0436-find-right-interval](https://github.com/quynhtran158/LeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/quynhtran158/LeetCode/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/quynhtran158/LeetCode/tree/master/0792-binary-search) |
